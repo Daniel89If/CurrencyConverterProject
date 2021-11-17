@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d39bed1f-7702-43dd-ba2d-05be25fc1ac4": {
+      "ProjectGuid": "d39bed1f-7702-43dd-ba2d-05be25fc1ac4",
+      "DisplayName": "FinanceProject",
+      "ColorIndex": 0
+    },
+    "eb883d78-da83-4b03-aaad-eac919a3cce1": {
+      "ProjectGuid": "eb883d78-da83-4b03-aaad-eac919a3cce1",
+      "DisplayName": "CurrencyConverterProjectDAL",
+      "ColorIndex": 1
+    },
+    "a283ff60-be90-4b1a-bd8a-7334d02e6dec": {
+      "ProjectGuid": "a283ff60-be90-4b1a-bd8a-7334d02e6dec",
+      "DisplayName": "CurrencyConverterProjectBL",
+      "ColorIndex": 2
+    },
+    "1b33d9d3-75bd-4f1f-a104-cc543134f265": {
+      "ProjectGuid": "1b33d9d3-75bd-4f1f-a104-cc543134f265",
+      "DisplayName": "CurrencyConverterProjectConsol",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 4
+}

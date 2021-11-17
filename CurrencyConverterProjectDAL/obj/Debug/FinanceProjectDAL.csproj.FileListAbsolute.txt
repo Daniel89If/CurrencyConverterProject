@@ -1,0 +1,6 @@
+C:\Users\daniel.ifrah\Desktop\Practise\BackEnd\C#-Practice\FinanceProject\FinanceProjectDAL\bin\Debug\FinanceProjectDAL.dll
+C:\Users\daniel.ifrah\Desktop\Practise\BackEnd\C#-Practice\FinanceProject\FinanceProjectDAL\bin\Debug\FinanceProjectDAL.pdb
+C:\Users\daniel.ifrah\Desktop\Practise\BackEnd\C#-Practice\FinanceProject\FinanceProjectDAL\obj\Debug\FinanceProjectDAL.csproj.AssemblyReference.cache
+C:\Users\daniel.ifrah\Desktop\Practise\BackEnd\C#-Practice\FinanceProject\FinanceProjectDAL\obj\Debug\FinanceProjectDAL.csproj.CoreCompileInputs.cache
+C:\Users\daniel.ifrah\Desktop\Practise\BackEnd\C#-Practice\FinanceProject\FinanceProjectDAL\obj\Debug\FinanceProjectDAL.dll
+C:\Users\daniel.ifrah\Desktop\Practise\BackEnd\C#-Practice\FinanceProject\FinanceProjectDAL\obj\Debug\FinanceProjectDAL.pdb

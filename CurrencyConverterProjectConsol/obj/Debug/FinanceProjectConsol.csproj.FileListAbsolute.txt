@@ -1,0 +1,14 @@
+C:\Users\daniel.ifrah\Desktop\Practise\BackEnd\C#-Practice\FinanceProject\FinanceProjectConsol\bin\Debug\FinanceProjectConsol.exe.config
+C:\Users\daniel.ifrah\Desktop\Practise\BackEnd\C#-Practice\FinanceProject\FinanceProjectConsol\bin\Debug\FinanceProjectConsol.exe
+C:\Users\daniel.ifrah\Desktop\Practise\BackEnd\C#-Practice\FinanceProject\FinanceProjectConsol\bin\Debug\FinanceProjectConsol.pdb
+C:\Users\daniel.ifrah\Desktop\Practise\BackEnd\C#-Practice\FinanceProject\FinanceProjectConsol\bin\Debug\FinanceProjectBL.dll
+C:\Users\daniel.ifrah\Desktop\Practise\BackEnd\C#-Practice\FinanceProject\FinanceProjectConsol\bin\Debug\FinanceProjectBL.pdb
+C:\Users\daniel.ifrah\Desktop\Practise\BackEnd\C#-Practice\FinanceProject\FinanceProjectConsol\obj\Debug\FinanceProjectConsol.csproj.AssemblyReference.cache
+C:\Users\daniel.ifrah\Desktop\Practise\BackEnd\C#-Practice\FinanceProject\FinanceProjectConsol\obj\Debug\FinanceProjectConsol.csproj.SuggestedBindingRedirects.cache
+C:\Users\daniel.ifrah\Desktop\Practise\BackEnd\C#-Practice\FinanceProject\FinanceProjectConsol\obj\Debug\FinanceProjectConsol.csproj.CoreCompileInputs.cache
+C:\Users\daniel.ifrah\Desktop\Practise\BackEnd\C#-Practice\FinanceProject\FinanceProjectConsol\obj\Debug\FinanceProjectConsol.csproj.CopyComplete
+C:\Users\daniel.ifrah\Desktop\Practise\BackEnd\C#-Practice\FinanceProject\FinanceProjectConsol\obj\Debug\FinanceProjectConsol.exe
+C:\Users\daniel.ifrah\Desktop\Practise\BackEnd\C#-Practice\FinanceProject\FinanceProjectConsol\obj\Debug\FinanceProjectConsol.pdb
+C:\Users\daniel.ifrah\Desktop\Practise\BackEnd\C#-Practice\FinanceProject\FinanceProjectConsol\bin\Debug\FinanceProjectBL.dll.config
+C:\Users\daniel.ifrah\Desktop\Practise\BackEnd\C#-Practice\FinanceProject\FinanceProjectConsol\bin\Debug\FinanceProjectDAL.dll
+C:\Users\daniel.ifrah\Desktop\Practise\BackEnd\C#-Practice\FinanceProject\FinanceProjectConsol\bin\Debug\FinanceProjectDAL.pdb

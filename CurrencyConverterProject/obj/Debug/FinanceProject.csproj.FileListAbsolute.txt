@@ -1,0 +1,9 @@
+C:\Users\daniel.ifrah\Desktop\Practise\BackEnd\C#-Practice\FinanceProject\FinanceProject\bin\Debug\FinanceProject.dll
+C:\Users\daniel.ifrah\Desktop\Practise\BackEnd\C#-Practice\FinanceProject\FinanceProject\bin\Debug\FinanceProject.pdb
+C:\Users\daniel.ifrah\Desktop\Practise\BackEnd\C#-Practice\FinanceProject\FinanceProject\bin\Debug\FinanceProjectBL.dll
+C:\Users\daniel.ifrah\Desktop\Practise\BackEnd\C#-Practice\FinanceProject\FinanceProject\bin\Debug\FinanceProjectBL.pdb
+C:\Users\daniel.ifrah\Desktop\Practise\BackEnd\C#-Practice\FinanceProject\FinanceProject\obj\Debug\FinanceProject.csproj.AssemblyReference.cache
+C:\Users\daniel.ifrah\Desktop\Practise\BackEnd\C#-Practice\FinanceProject\FinanceProject\obj\Debug\FinanceProject.csproj.CoreCompileInputs.cache
+C:\Users\daniel.ifrah\Desktop\Practise\BackEnd\C#-Practice\FinanceProject\FinanceProject\obj\Debug\FinanceProject.csproj.CopyComplete
+C:\Users\daniel.ifrah\Desktop\Practise\BackEnd\C#-Practice\FinanceProject\FinanceProject\obj\Debug\FinanceProject.dll
+C:\Users\daniel.ifrah\Desktop\Practise\BackEnd\C#-Practice\FinanceProject\FinanceProject\obj\Debug\FinanceProject.pdb
